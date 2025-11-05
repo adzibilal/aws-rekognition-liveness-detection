@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awsrekognitionlivene-dev-147e4-authRole",
+      "UnauthRoleArn": "arn:aws:iam::115458716067:role/amplify-awsrekognitionlivene-dev-147e4-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::115458716067:role/amplify-awsrekognitionlivene-dev-147e4-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-awsrekognitionlivene-dev-147e4-deployment",
+      "UnauthRoleName": "amplify-awsrekognitionlivene-dev-147e4-unauthRole",
+      "StackName": "amplify-awsrekognitionlivene-dev-147e4",
+      "StackId": "arn:aws:cloudformation:ap-south-1:115458716067:stack/amplify-awsrekognitionlivene-dev-147e4/d69ac940-8e0e-11f0-a452-028e9e08bb15",
+      "AmplifyAppId": "d2rjcxa0tws3h8"
+    },
+    "categories": {
+      "auth": {
+        "awsrekognitionlivene846213b9": {}
+      }
+    }
+  }
+}
